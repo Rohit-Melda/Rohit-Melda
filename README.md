@@ -6,8 +6,8 @@
 
 I enjoy learning how software works, solving problems, and turning ideas into practical projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9b8cff?style=for-the-badge)](https://YOUR-USERNAME.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9b8cff?style=for-the-badge)](https://Rohit-Melda.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Rohit-Melda)
 
 </div>
 
