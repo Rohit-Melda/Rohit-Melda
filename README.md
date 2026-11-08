@@ -42,8 +42,8 @@ I enjoy learning how software works, solving problems, and turning ideas into pr
 
 ## 📫 Connect
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- Portfolio: [YOUR-USERNAME.github.io](https://YOUR-USERNAME.github.io)
+- GitHub: [@YOUR-USERNAME](https://github.com/Rohit-Melda)
+- Portfolio: [YOUR-USERNAME.github.io](https://Rohit-Melda.github.io)
 
 ---
 
